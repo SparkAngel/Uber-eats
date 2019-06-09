@@ -416,7 +416,7 @@ body {
     background-color: #59BD5A;
     border: none;
     border-radius: 2px;
-    background-image: url(/images/arrow.png);
+    background-image: url(./images/arrow.png);
     background-repeat: no-repeat;
     background-position: center;
 }
